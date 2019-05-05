@@ -1,0 +1,21 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.15.1",
+    "npm": "6.4.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
